@@ -46,3 +46,6 @@ A sleek, modern landing page inspired by Nike. Built with **React, Tailwind CSS*
 - Skilled in **DevOps pipelines**: Docker, Kubernetes, GitHub Actions  
 - Experience deploying **production-ready applications** with containerization and CI/CD  
 - Strong focus on **clean, maintainable, and scalable code**
+
+  
+<img src="./banner.svg" width="100%" alt="television" />
