@@ -1,3 +1,6 @@
+<img src="./banner.svg" width="100%" alt="television" />
+
+
 # Hi, I'm Dipak! 👋
 
 Fullstack Developer | DevOps Enthusiast | Problem Solver  
@@ -48,4 +51,3 @@ A sleek, modern landing page inspired by Nike. Built with **React, Tailwind CSS*
 - Strong focus on **clean, maintainable, and scalable code**
 
   
-<img src="./banner.svg" width="100%" alt="television" />
