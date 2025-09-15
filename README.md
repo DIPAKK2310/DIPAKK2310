@@ -16,7 +16,7 @@ I build **high-quality web applications** with scalable architectures, clean cod
 - **Styling & UI:** CSS3, SASS (SCSS), Tailwind CSS, Bootstrap, Figma  
 
 ### Backend
-- **Languages & Frameworks:** Node.js, Express  
+- **Languages & Frameworks:** Node.js, Express, Fastify  
 - **Databases & Tools:** MongoDB, Firebase, REST APIs  
 
 ### DevOps & Deployment
