@@ -12,7 +12,7 @@ I build **high-quality web applications** with scalable architectures, clean cod
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React  
+- **Languages & Frameworks:** JavaScript (ES6+), TypeScript, React , Go 
 - **Styling & UI:** CSS3, SASS (SCSS), Tailwind CSS, Bootstrap, Figma  
 
 ### Backend
