@@ -28,13 +28,6 @@ I build **high-quality web applications** with scalable architectures, clean cod
 
 ---
 
-## 🚀 Featured Projects
-
-### [Nike Landing Page](https://nike-landing-vert-nine.vercel.app/)
-A sleek, modern landing page inspired by Nike. Built with **React, Tailwind CSS**, and responsive design principles.
-
-
----
 
 ## 📬 Connect with Me
 
