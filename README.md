@@ -17,7 +17,7 @@ I build **high-quality web applications** with scalable architectures, clean cod
 
 ### Backend
 - **Languages & Frameworks:** Node.js, Express, Fastify  
-- **Databases & Tools:** MongoDB, Firebase, REST APIs  
+- **Databases & Tools:** MongoDB, Firebase, REST APIs, SQL, NeonDB
 
 ### DevOps & Deployment
 - **Version Control & CI/CD:** Git, GitHub, GitHub Actions  
