@@ -8,6 +8,13 @@ Fullstack Developer | DevOps Enthusiast | Problem Solver
 I build **high-quality web applications** with scalable architectures, clean code, and modern DevOps practices.
 
 ---
+  ### 🚀 Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jackcodetw/jackcodetw/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ## 🛠️ Tech Stack
 
@@ -43,4 +50,5 @@ I build **high-quality web applications** with scalable architectures, clean cod
 - Experience deploying **production-ready applications** with containerization and CI/CD  
 - Strong focus on **clean, maintainable, and scalable code**
 
-  
+
+
